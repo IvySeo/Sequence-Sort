@@ -4,6 +4,9 @@ using C++
 # Program’s purpose:
 The purpose of this program is sort a file of data as a sequence set with each field being a separate part of the record data. This then allows the user to delete, modify, or create new file data into the program. 
 
+Our program’s job is to take in a data set, in this case a large number of United States postal addresses, take them into memory, force all of the fields into a fixed size, and then output the new data into a new outfile. The program also needs to be able to display a given record, display a specific field in a record, modify and field in a record, insert new records, and delete old records.  Additionally our program needs to verify that the sequence set is consistent, and be able to rebuild the sequence set.
+
+
 # How to compile:
 Make sure all files are located within the same folder, and compile/run AddressMain.cpp.  The program will then give you a list of commands that the user can implement such as:
 
