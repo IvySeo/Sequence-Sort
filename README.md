@@ -16,8 +16,12 @@ Press C: to insert a new record
 Press D: to output all records to file
 
 Press E: to display all records
+
 Press F: to display a selected block of records
+
 Press G: to display a single selected record
+
 Press Q: to exit the program
+
 
 The user then may or may not be prompted for a Zipcode to find a specific file or a Y/N question to make sure they hit the correct function they wanted to implement. 
