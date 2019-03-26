@@ -8,9 +8,13 @@ The purpose of this program is sort a file of data as a sequence set with each f
 Make sure all files are located within the same folder, and compile/run AddressMain.cpp.  The program will then give you a list of commands that the user can implement such as:
 
 Press A: to delete a record
+
 Press B: to modify a field within a record
+
 Press C: to insert a new record
+
 Press D: to output all records to file
+
 Press E: to display all records
 Press F: to display a selected block of records
 Press G: to display a single selected record
